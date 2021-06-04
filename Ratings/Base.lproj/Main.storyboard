@@ -11,7 +11,7 @@
         <!--Gestures-->
         <scene sceneID="HHB-Qb-owR">
             <objects>
-                <viewController title="Gestures" id="MEC-9f-fog" sceneMemberID="viewController">
+                <viewController title="Gestures" modalTransitionStyle="crossDissolve" id="MEC-9f-fog" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="T8C-KL-Jeu">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -67,7 +67,7 @@
         <!--View Controller-->
         <scene sceneID="wiD-7H-KTC">
             <objects>
-                <viewController id="3uS-ZN-OT8" sceneMemberID="viewController">
+                <viewController modalTransitionStyle="crossDissolve" id="3uS-ZN-OT8" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="3Vn-Sw-J4b">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
